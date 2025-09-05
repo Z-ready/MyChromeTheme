@@ -1,0 +1,27 @@
+{
+   "name": "Dark Theme with a hint of White",
+   "manifest_version": 2,
+   "version": "2.1",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 209, 209, 209 ],
+         "button_background": [ 255, 255, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 15, 15, 15 ],
+         "ntp_link": [ 36, 70, 0 ],
+         "ntp_section": [ 207, 221, 192 ],
+         "ntp_text": [ 245, 245, 245 ],
+         "tab_background_text": [ 209, 209, 209 ],
+         "tab_text": [ 0, 0, 0 ],
+         "tab_text_inactive": [ 255, 255, 255 ],
+         "toolbar": [ 15, 15, 15 ]
+      },
+      "images": {
+         "theme_toolbar": "images/toolbart.png"
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1]
+      }
+   }
+
+}
